@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="Python 3.11 (Simple_ViT)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.11.5 (sftp://itaipem@132.72.40.248:22/home/itaipem/.conda/envs/ViT/bin/python3.11)" project-jdk-type="Python SDK" />
+</project>
