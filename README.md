@@ -1,4 +1,6 @@
 # Vision Transformer Implementation
+<img width="579" alt="image" src="https://github.com/ItaiPemp/Simple_ViT/assets/102918201/f55993bb-4d8b-4dc1-86be-e8a79fd262cb">
+
 
 ## Overview
 
